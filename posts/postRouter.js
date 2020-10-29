@@ -1,5 +1,5 @@
 const express = require("express");
-const Posts = require("./postDb.js");
+const Posts = require("./foobar");
 const router = express.Router();
 
 // custom middleware
